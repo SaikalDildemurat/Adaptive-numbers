@@ -1,2 +1,1 @@
-# Adaptive-numbers
-https://saikaldildemurat.github.io/Adaptive-numbers/
+# [Adaptive-numbers](https://saikaldildemurat.github.io/Adaptive-numbers/)
